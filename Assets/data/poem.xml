@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Poem>
+  <link>
+    <panel>panel</panel>
+    <word>wordcomponent</word>
+  </link>
+  <link>
+    <panel>panel (1)</panel>
+    <word>wordcomponent (1)</word>
+  </link>
+  <link>
+    <panel>panel (2)</panel>
+    <word>wordcomponent (2)</word>
+  </link>
+  <link>
+    <panel>panel (3)</panel>
+    <word>wordcomponent (3)</word>
+  </link>
+  <link>
+    <panel>panel (4)</panel>
+    <word>wordcomponent (4)</word>
+  </link>
+  <link>
+    <panel>panel (5)</panel>
+    <word>wordcomponent (5)</word>
+  </link>
+</Poem>
+
